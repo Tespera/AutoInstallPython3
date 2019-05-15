@@ -15,7 +15,7 @@
 # <p align="center">The Shell script will auto install Python3 in your CentOS without complex steps.</p>
 
 <p align="center">
-    <a href="https://github.com/Tespera/AutoInstallPython3/LICENSE">
+    <a href="https://github.com/Tespera/AutoInstallPython3/blob/master/LICENSE">
         <img src="https://img.shields.io/cocoapods/l/EFQRCode.svg?style=flat">
         </a>
     <a href="https://github.com/Tespera/AutoInstallPython3">
@@ -93,4 +93,4 @@ Install Successfully! Enjoy 😘!
 
 
 ### LICENSE
-[MIT](https://github.com/Tespera/AutoInstallPython3/LICENSE)
+[MIT](https://github.com/Tespera/AutoInstallPython3/blob/master/LICENSE)
