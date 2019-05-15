@@ -30,7 +30,7 @@
 </p>
 
 
-众所周知，在 Linux 系统中均默认安装了Python2 的版本，但是有时候做开发需要用到 Python3，并需要通过 pip 来安装一些依赖和扩展，但是 Linux 安装 Python3 比较麻烦，并不能通过 命令 yum install python3 来实现一键安装，所以本人写了一个简单的 Shell 脚本来实现一键安装。刚学的 Shell ，只为了方便，不喜勿喷；初级 Shell 脚本，高手忽略。
+众所周知，在 Linux 系统中均默认安装了Python2 的版本，但是有时候做开发需要用到 Python3，并需要通过 pip 来安装一些依赖和扩展，但是 Linux 安装 Python3 比较麻烦，并不能通过 命令 yum install python3 来实现一键安装，所以本人写了一个简单的 Shell 脚本来实现一键安装。刚学的 Shell ，只为了方便，不喜勿喷；初级 Shell 脚本，高手请忽略😜。
 
 
 ##### 首先切换到 root 用户，然后下载安装脚本
